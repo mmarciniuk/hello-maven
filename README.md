@@ -55,3 +55,7 @@ Maven’s primary goal is to allow a developer to comprehend the complete state 
 
 ### Maven repository - General overview
 ![MavenRepository](images/MavenRepository.jpg)
+
+5. To verify that Maven was installed correctly use command `mvn --version`.
+Example of expected result:
+![MavenVerification](images/MavenVerification.png)
