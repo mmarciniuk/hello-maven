@@ -1,6 +1,7 @@
 # hello-maven
 
 This repository contains simple example of maven project.
+It was during the presentation.
 
 ## Introduction to Maven
 
